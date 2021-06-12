@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body{
+    background-image: url(SKZ.jpg)
+}
+
+  .boton{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FB4311;
+    background-color: #FFDAC1;
+    border-radius: 0px;
+    border: 3px solid #F2DA83;
+  }
+
+
+  .boton{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FB4311;
+    background-color: #FFDAC1;
+    border-radius: 0px;
+    border: 3px solid #F2DA83;
+  }
+
+  .titulo{
+    text-align: center;
+    margin-top: 30px;
+    position: relative;
+    float: left;
+    width: 100%;
+  }
+  .boton:hover{
+    color: #FFDAC1;
+    background-color: #FB4311;
+  }
+
+.calculadora{
+    text-align: left;
+    margin-top: 30px;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.cine{
+    
+    text-align: center;
+    margin-top: 40px;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.conciertos{
+    text-align: right;
+    margin-top: 40px;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+
+.disney{
+    text-align: left;
+    margin-top: 30px;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.tienda{
+    text-align: center;
+    margin-top: 30px;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.twitter{
+    text-align: right;
+    margin-top: 30px;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+
+
+
+
+

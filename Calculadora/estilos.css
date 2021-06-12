@@ -1,0 +1,145 @@
+*{
+	margin: 0px; 
+	padding: 0px; 
+	font-family: 'Roboto', sans-serif;
+}
+
+.regresar{
+    position:absolute;
+    left: 19px;
+	top: 40px;
+}
+
+body{
+	background-image: url('LK.jpg');
+}
+
+.calculadora{
+	position: absolute;
+	width: 700px;
+	height: 750px;
+	background: #262f3e;
+	border-radius: 15px;
+	margin-left: 500px;
+	bottom: 45px;
+}
+.pantalla
+{
+	position:relative;
+	color: #E6B7E0;
+	top: 200px;
+	padding-left: 50px;
+
+
+}
+
+.claro{
+	background: #F7C3D2 !important;
+}
+
+.claro2{
+	background: white !important;
+}
+
+.oscuro{
+	background: #262f3e;
+}
+
+.tclaro{
+	color:  #E3E4F7 !important;
+
+}
+
+.toscuro{
+	color: #F7C3D2 !important;
+
+}
+
+#opera{
+	width: 80%;
+	height: 5%;
+	position: fixed;
+	margin-top: 120px;
+}
+
+#res{
+	width: 80%;
+	height: 7%;
+	position: fixed;
+	margin-top: 150px;
+}
+
+#numeral{
+	position: absolute;
+	width: 700px;
+	height: 60%;
+	border-radius: 60px;
+	background: #581555;
+	margin-top:300px;
+}
+
+/*Botones dia noche*/
+
+#tema{
+	width: 13%;
+	height: 35px;
+	background-color: #313a49;
+	position: fixed;
+	margin-left: 260px;
+	margin-top: 0px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+	.activo{
+		color: #E3E4F7 !important;
+	}
+
+#icon1{
+	margin-top: 8%;
+	margin-left: 15%;
+	color: #E3E4F7;
+}
+
+#icon2{
+	margin-top: 8%;
+	margin-left: 20%;
+	color: #E3E4F7;
+}
+
+
+
+
+.num{
+	background-color: transparent;
+    border: none;
+    color: #E3E4F7;
+
+}
+
+#exc1{
+	margin-left: 54%;
+}
+
+#exc2{
+	margin-left: 27%;
+}
+
+#exc3{
+	color: #E3E4F7;
+}
+
+.ope{
+	width:50px;
+	height:50px;
+	border-radius: 50px;
+	background-color: #394251;
+	color: #E3E4F7;
+}
+
+button{
+	width: 26%;
+	height: 20%;
+	border-radius: 15px;
+	cursor: pointer;
+	font-size: 20px;
+}
